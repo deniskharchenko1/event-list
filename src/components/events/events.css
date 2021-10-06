@@ -1,0 +1,41 @@
+.site-calendar-demo-card {
+  /*max-width: 600px;*/
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+}
+
+.h100 {
+  height: calc(100vh - 64px);
+}
+.item {
+  padding: 0 15px;
+}
+
+.card-item {
+  margin-bottom: 15px;
+}
+
+.ant-card-body {
+  padding: 15px;
+}
+
+.ant-card-head {
+  padding: 0 15px;
+}
+.ant-card-head-title {
+  padding: 14px 0;
+}
+.card-content {
+  margin-bottom: 2px;
+  font-size: 16px;
+}
+.ant-picker-calendar {
+  font-size: 16px;
+}
+.card-button {
+  display: flex;
+  justify-content: center;
+}
+.add-button {
+  margin: 30px auto;
+}
